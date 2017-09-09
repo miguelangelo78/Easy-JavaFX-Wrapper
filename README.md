@@ -202,7 +202,7 @@ Then, go to the Controller class and add the following method:
 
 With only two steps, the library was capable of binding that specific `MOUSE_MOVED` event to the controller's private handler method.
 
-The output of this is:
+The output of this is:  
 ![Example 3](https://image.prntscr.com/image/OSCDxfanRP_PE2s8d7z3Tw.png)
 
 Remember that you are not forced to add events only through the constructor. You can bind the events through the FXML file just as easily.
