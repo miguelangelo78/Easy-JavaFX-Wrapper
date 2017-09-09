@@ -1,6 +1,7 @@
 package app.template;
 
 import gui.GenericController;
+
 import javafx.event.Event;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

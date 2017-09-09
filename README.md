@@ -133,7 +133,7 @@ public class Scene extends GenericScene {
 The program will display the following:  
 ![Example 1](https://image.prntscr.com/image/xf0_JyOYRaKDpIe716AJMQ.png)
 
-One disadvantage might be the fact that you need to create a folder for such a simple thing (for instance, a Modal which requests user confirmation). If this is such a big problem for you, then you could use the Swing library, however, if you want to create your own customized modal, or you want to create a more complex modal window with more than just two buttons for user confirmation, then this library is not a bad idea after all. Besides, you are able to reuse the Scenes like this:
+One disadvantage might be the fact that you need to create a folder for such a simple thing (for instance, a Modal which requests user confirmation). If this is such a big problem for you, then you could use the Swing library, however, if you want to create your own customized modal then this library is not a bad idea after all. Besides, you are able to reuse the Scenes like this:
 ```java
 package Main;
 
